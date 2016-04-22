@@ -560,7 +560,7 @@ REDIRECTIONS = []
 # }
 
 DEPLOY_COMMANDS = ["git add .",
-                   "git commit -am 'Update'",
+                   "git commit -am 'Update.'",
                    "git push origin master",
                    "git subtree split --prefix output -b gh-pages",
                    "git push -f origin gh-pages:gh-pages",
