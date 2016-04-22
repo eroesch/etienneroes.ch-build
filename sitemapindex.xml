@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/authors/nikola-tesla.xml</loc>
-  <lastmod>2016-04-22T16:19:00Z</lastmod>
+  <lastmod>2016-04-22T16:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/authors/roberto-alsina.xml</loc>
@@ -43,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/rss.xml</loc>
-  <lastmod>2016-04-22T16:19:00Z</lastmod>
+  <lastmod>2016-04-22T16:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/sitemap.xml</loc>
-  <lastmod>2016-04-22T16:19:00Z</lastmod>
+  <lastmod>2016-04-22T16:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>

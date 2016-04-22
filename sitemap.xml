@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/</loc>
-  <lastmod>2016-04-22T16:19:00Z</lastmod>
+  <lastmod>2016-04-22T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/2012/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/archive.html</loc>
-  <lastmod>2016-04-22T16:19:00Z</lastmod>
+  <lastmod>2016-04-22T16:29:00Z</lastmod>
  </url>
  <url>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/authors/</loc>
@@ -80,6 +80,10 @@
  <url>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/posts/a-second-test/</loc>
   <lastmod>2016-04-22T16:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/posts/hmmm/</loc>
+  <lastmod>2016-04-22T16:29:00Z</lastmod>
  </url>
  <url>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/posts/my-test/</loc>
