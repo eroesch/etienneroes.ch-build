@@ -17,11 +17,19 @@
   <lastmod>2016-04-23</lastmod>
  </sitemap>
  <sitemap>
+  <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/categories/neuroimaging.xml</loc>
+  <lastmod>2016-04-23</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/categories/nikola.xml</loc>
   <lastmod>2016-04-23</lastmod>
  </sitemap>
  <sitemap>
   <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/categories/python.xml</loc>
+  <lastmod>2016-04-23</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>file:///Users/tz901918/Documents/Repositories/my_second_site/output/categories/test.xml</loc>
   <lastmod>2016-04-23</lastmod>
  </sitemap>
  <sitemap>
