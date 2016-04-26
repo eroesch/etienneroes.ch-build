@@ -1,2 +1,4 @@
-Sitemap: file:///Users/tz901918/Documents/Repositories/my_second_site/output/sitemapindex.xml
+Sitemap: https://etienneroes.ch/sitemapindex.xml
 
+User-Agent: *
+Host: etienneroes.ch
