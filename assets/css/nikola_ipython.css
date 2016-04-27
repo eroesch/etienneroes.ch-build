@@ -39,6 +39,7 @@ div.text_cell_render {
 
 .rendered_html p {
   text-align: left;
+  margin: 0 0 12px;
 }
 
 .rendered_html ul {
@@ -64,7 +65,7 @@ div.text_cell_render {
 }
 
 .page-content > .content p {
-  margin: 0 0 0px;
+  margin: 0 0 12px;
 }
 
 .highlight .hll { background-color: #ffffcc }
