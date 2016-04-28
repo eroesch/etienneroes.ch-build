@@ -1,0 +1,59 @@
+.. title: Some of the things I wrote..
+.. slug: publications
+.. date: 2016-04-28 21:26:11 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+.. |--| unicode:: U+2013
+.. |br| raw:: html
+
+	<br />
+
+
+|br|
+
+Peer-reviewed (ISI WoK 5y Impact Factor)
+-------------------------------------------------------
+|--| Roesch, E.B., Stahl, F. and Gaber, M.M. (2014). Bigger data for big data: From Twitter to brain–computer interfaces (comment on Bentley et al.). Behavioral and Brain Sciences (IF = 25.056), 37, pp 97-98. doi:10.1017/S0140525X13001854.
+
+|--| Roesch E.B., Nasuto S.J. and Bishop J.M. (2012) Emotion and anticipation in an enactive framework for cognition (response to Andy Clark). Frontiers in Psychology 3:398. doi: 10.3389/fpsyg.2012.00398
+
+|--| Morriss J, Taylor A.N.W., Roesch E.B. and van Reekum CM (2013) Still feeling it: the time course of emotional recovery from an attentional perspective. Frontiers in Human Neuroscience, 7:201 (IF: 2.9). doi: 10.3389/fnhum.2013.00201
+
+|--| Roesch, E.B., Nasuto, S., Bishop, J. M. (2012). A Mouse in the Chinese Room. Paper to be presented at the Annual Convention of the Society for Artificial Intelligence and the Simulation of Behaviour (AISB), Symposium on Computing and Philosophy, in honour of Alan Turing. 2nd–6thJuly. Birmingham.
+
+|--| Krumhuber, E., Tamarit, L.,Roesch E. B., Scherer, K. R. (2012). FACSGen 2.0 Animation Software: Generating realistic 3D FACS-validated stimuli for facial expression research. Emotion (IF: 4.877).
+
+|--| Roesch, E. B., Sander, D., Mumenthaler, C., Kerzel, D., & Scherer, K. R. (2010). Psychophysics of emotion: The QUEST for emotion perception. Journal of Vision (IF: 3.636). 10(3): 4; doi:10.1167/10.3.4
+
+|--| Roesch, E. B.,Tamarit, L., Reveret, L., Grandjean, D., Sander, D., Scherer, K. R. (2010). FACSGen: A tool to generate synthetic, realistic, static and dynamic, FACS-based facial expressions. Journal of Nonverbal Behavior (IF: 2.071); doi:10.1007/s10919-010-0095-9.
+
+|--| Roesch, E. B., Sander, D., Scherer, K. R. (2009). Emotion and motion in facial expressions modulate the attentional blink. Perception (IF: 1.874), 38, 466-467; doi:10.1068/ava08.
+
+|--| Fidjeland, A.,Roesch, E. B.,Shanahan, M. P., Luk, W. (2009). NeMo: A platform for Neural Modelling of spiking neurons using GPUs. 20th IEEE International Conference on Application-specific Systems, Architectures and Processors. Boston.
+
+|--| Santesso, D. L., Meuret, A. E., Hofman, S. G., Mueller, E., Ratner, K. G.,Roesch, E. B., Pizzagalli, D. A. (2008). The electrophysiological correlates of spatial orienting towards angry faces: A source localization study. Neuropsychologia (IF: 4.766). 46(5).pp. 1338-1348.
+
+|--| Fontaine, J. R., Scherer, K. R.,Roesch, E. B., Ellsworth, P. (2007). The world of emotions is not two-dimensional. Psychological Science (IF: 6.648), 18(2), pp 1050-1057.
+
+|br|
+
+Edited books
+------------
+|--| Scherer, K. R., Baenziger, T. & Roesch, E. B. (2010). Blueprint for Affective Computing: a Sourcebook. Oxford, England: Oxford University Press.
+
+|--| Section editor in Petta, P., Pelachaud, C., & Cowie, R. (2010). Handbook for Research on Emotions and Human-Machine Interactions – HUMAINE. Section “Theories and Models of Emotion”. Springer.
+
+|br|
+
+Book chapters
+-------------
+|--| Roesch, E. B. (2014). A critical review of classical computational approaches to cognitive robotics: Case study for theories of cognition. In Radman, Z. (Ed.) The Hand: An Organ Of The Mind. Cambridge, USA: MIT Press.
+
+|--| Roesch, E. B., Korsten, N., Fragopanagos, N., Taylor, J. G. (2010). Emotions in artificial neural networks. In K. R. Scherer, T. Baenziger, E. B. Roesch (Eds.). Blueprint for Affective Computing: a Sourcebook. Oxford, England: Oxford University Press.
+
+|br|
