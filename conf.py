@@ -259,7 +259,10 @@ DATE_FANCINESS = 2
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {
+	'files': '',
+	'css': 'css',
+}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing listings to be processed and stored into
@@ -1101,8 +1104,8 @@ SHOW_SOURCELINK = True
 #"""
 
 EXTRA_HEAD_DATA = """
-<link href=\"http://eroesch.github.io/etienneroes.ch-build/bootstrap.min.css\" rel=\"stylesheet\">
-<link href=\"http://eroesch.github.io/etienneroes.ch-build/jumbotron-narrow.css\" rel=\"stylesheet\">
+<link href=\"http://eroesch.github.io/etienneroes.ch-build/css/bootstrap.min.css\" rel=\"stylesheet\">
+<link href=\"http://eroesch.github.io/etienneroes.ch-build/css/jumbotron-narrow.css\" rel=\"stylesheet\">
 """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).

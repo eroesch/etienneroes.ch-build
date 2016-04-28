@@ -1,4 +1,4 @@
-.. title: Who am I?
+.. title: Who I am..
 .. slug: bio
 .. date: 2016-04-27 20:43:40 UTC+01:00
 .. tags: 
@@ -13,7 +13,6 @@
 
 
 |br|
-
 
 I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Cognitive Science, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, at the School of Psychology and Clinical Language Sciences.
 
