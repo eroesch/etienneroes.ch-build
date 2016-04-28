@@ -1,0 +1,24 @@
+.. title: Welcome!
+.. slug: index
+.. date: 1970-01-01 00:00:00 UTC
+.. tags:
+.. link: http://etienneroes.ch
+.. description: Personal website of Dr. Etienne B. Roesch, Lecturer in Cognitive Science, University of Reading, UK
+
+.. |br| raw:: html
+
+   <br />
+
+.. |--| unicode:: U+2013   .. en dash
+.. |---| unicode:: U+2014  .. em dash, trimming surrounding whitespace
+   :trim:
+
+
+
+|br|
+
+I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Cognitive Science, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, at the School of Psychology and Clinical Language Sciences.
+
+I conduct and supervise research that focuses on the mechanisms that support meaningful interaction with the environment through sensorimotor coordination, in vision and touch. We use psychophysics, electrophysiology and neuroimaging methods, as well as mathematical modelling.
+
+|br|
