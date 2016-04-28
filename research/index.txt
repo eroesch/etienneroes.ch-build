@@ -1,0 +1,21 @@
+.. title: Research
+.. slug: research
+.. date: 2016-04-28 20:52:01 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+.. |br| raw:: html
+
+	<br \>
+
+.. 
+
+
+|br|
+
+
+.. image:: frontispiece.jpg
+
