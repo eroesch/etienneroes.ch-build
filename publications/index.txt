@@ -20,7 +20,7 @@ Peer-reviewed (ISI WoK 5y Impact Factor)
 -------------------------------------------------------
 |--| Roesch, E.B., Stahl, F. and Gaber, M.M. (2014). Bigger data for big data: From Twitter to brain–computer interfaces (comment on Bentley et al.). Behavioral and Brain Sciences (IF = 25.056), 37, pp 97-98. doi:10.1017/S0140525X13001854.
 
-|--| Roesch E.B,, Nasuto S.J. and Bishop J.M. (2012) Emotion and anticipation in an enactive framework for cognition (response to Andy Clark). Frontiers in Psychology 3:398 (IF: n/a). doi: 10.3389/fpsyg.2012.00398
+|--| Roesch E.B., Nasuto S.J. and Bishop J.M. (2012) Emotion and anticipation in an enactive framework for cognition (response to Andy Clark). Frontiers in Psychology 3:398. doi: 10.3389/fpsyg.2012.00398
 
 |--| Morriss J, Taylor A.N.W., Roesch E.B. and van Reekum CM (2013) Still feeling it: the time course of emotional recovery from an attentional perspective. Frontiers in Human Neuroscience, 7:201 (IF: 2.9). doi: 10.3389/fnhum.2013.00201
 
