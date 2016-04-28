@@ -1,0 +1,29 @@
+.. title: The many ways to get in touch with me..
+.. slug: contact
+.. date: 2016-04-28 08:10:39 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+.. |br| raw:: html
+
+	<br />
+
+
+|br|
+`Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_ |br|
+Whiteknights Campus, Pepper Lane Gate |br|
+University of Reading |br|
+Reading, RG6 6AH (**!SatNav: RG6 6UR**) |br|
+United-Kingdom |br|
+
+http `etienneroes.ch <http://etienneroes.ch>`_
+
+@ contact(AT)etienneroes(DOT)ch
+
+irc `##neuroscience <http://fr.irc2go.com/webchat/?net=freenode&room=%23neuroscience>`_, on irc.freenode.net (http://neurosci.wikidot.com)
+
+twitter `@etienneroesch <https://twitter.com/etienneroesch/>`_
+|br|
