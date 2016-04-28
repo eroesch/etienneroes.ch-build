@@ -1,4 +1,4 @@
-.. title: Research
+.. title: What I do..
 .. slug: research
 .. date: 2016-04-28 20:52:01 UTC+01:00
 .. tags: 
@@ -16,14 +16,16 @@
 
 |br|
 
+.. image:: /images/cogsci-etienneroesch-small.png
+	:height: 270px
+	:align: right
+
 The question that motivates my work is: How do we experience the world?
 
 My interests are generally centrered around the study of the mechanisms that support meaningful interaction with the environment through sensorimotor coordination, in vision and touch. To describe these mechamisms, I employ methods from psychophysics, electrophysiology and neuroimaging, as well as mathematical modelling.
 
-.. image:: images/cogsci-etienneroesch-small.jpg
-	:height: 290px
-	:width: 300px
-	:align: right
+
+|br| |br|
 
 Ongoing projects:
 
@@ -31,6 +33,6 @@ Ongoing projects:
 
 "Mesoscopic modelling of retinal neural networks" £90K, Funded by the Univ. Reading. Funded period: 2013-2017.
 
-"Brain-Computer Interface for Monitoring and Inducing Affective States"; £615K, Funded by the EPSRC EP/J003077/1. Partners: Prof. Eduardo Miranda (Co-PI), Dr. Slawomir Nasuto (Co-PI). Funded period: 2011-2016.
+.. "Brain-Computer Interface for Monitoring and Inducing Affective States"; £615K, Funded by the EPSRC EP/J003077/1. Partners: Prof. Eduardo Miranda (Co-PI), Dr. Slawomir Nasuto (Co-PI). Funded period: 2011-2016.
 
 |br|

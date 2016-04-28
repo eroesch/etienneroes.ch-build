@@ -1,4 +1,4 @@
-.. title: Who am I?
+.. title: Who I am..
 .. slug: bio
 .. date: 2016-04-27 20:43:40 UTC+01:00
 .. tags: 
