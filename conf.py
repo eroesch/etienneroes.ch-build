@@ -17,16 +17,17 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Nikola Tesla"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_AUTHOR = "Etienne B. Roesch"  # (translatable)
+BLOG_TITLE = "Etienne B. Roesch | Lecturer in Cognitive Science"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "file:///Users/tz901918/Documents/Repositories/my_second_site/output"
+#SITE_URL = "file:///Users/tz901918/Documents/Repositories/my_second_site/output"
+SITE_URL = "https://etienneroes.ch/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
-BLOG_EMAIL = "n.tesla@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BASE_URL = "https://etienneroes.ch/"
+BLOG_EMAIL = "contact@etienneroes.ch"
+BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -128,15 +129,20 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/index.html', 'Home', 'icon-home'),
-        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        #('/index.html', 'Home', 'icon-home'),
+		  ('/bio', 'Bio', 'icon-smile'),
+		  ('/research', 'Research', 'icon-beaker'),
+		  ('/publications', 'Publications', 'icon-quote-left'),
+		  ('/notebook', 'Notebook', 'icon-pencil'),
+        #('/archive.html', 'Archives', 'icon-folder-open-alt'),
         ('/categories/index.html', 'Tags', 'icon-tags'),
         ('/rss.xml', 'RSS', 'icon-rss'),
-        ('/portfolio/portfolio.slides.html', 'Portfolio', 'icon-briefcase'),
-        ('/stories/about-me.html', 'About me', 'icon-user'),
-        ('https://twitter.com/damian_avila', 'My Twitter', 'icon-twitter'),
-        ('https://github.com/damianavila', 'My Github', 'icon-github'),
-        ('https://plus.google.com/u/0/106896109587369688379/posts', 'My Google+', 'icon-google-plus'),
+        #('/portfolio/portfolio.slides.html', 'Portfolio', 'icon-briefcase'),
+        #('/stories/about-me.html', 'About me', 'icon-user'),
+        ('https://twitter.com/etienneroesch', 'My Twitter', 'icon-twitter'),
+        ('https://github.com/eroesch', 'My Github', 'icon-github'),
+		  ('/contact','Get in touch..', 'icon-envelope')
+        #('https://plus.google.com/u/0/106896109587369688379/posts', 'My Google+', 'icon-google-plus'),
     )
 }
 
@@ -151,6 +157,7 @@ NAVIGATION_LINKS = {
 # Name of the theme to use.
 #THEME = "bootstrap3"
 THEME = "zen-ipython"
+#THEME = "zen-jinja"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -183,14 +190,16 @@ THEME_COLOR = '#5670d4'
 
 
 POSTS = (
-    ("posts/*.ipynb", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.ipynb", "notebook", "post.tmpl"),
+    ("posts/*.txt", "notebook", "post.tmpl"),
+    ("posts/*.rst", "notebook", "post.tmpl"),
+    ("posts/*.md", "notebook", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.ipynb", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
-    ("stories/*.rst", "stories", "story.tmpl"),
+    ("pages/*.ipynb", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.md", "", "story.tmpl"),
 )
 
 #POSTS = (
@@ -221,11 +230,11 @@ TIMEZONE = "Europe/London"
 
 # Date format used to display post dates. (translatable)
 # (str used by datetime.datetime.strftime)
-# DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = '%Y-%m-%d %H:%M'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
-# JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
+JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 
 # Date fanciness.
 #
@@ -234,7 +243,7 @@ TIMEZONE = "Europe/London"
 # 2 = using a string like “2 days ago”
 #
 # Your theme must support it, bootstrap and bootstrap3 already do.
-# DATE_FANCINESS = 0
+DATE_FANCINESS = 2
 
 # While Nikola can select a sensible locale for each language,
 # sometimes explicit control can come handy.
@@ -250,7 +259,7 @@ TIMEZONE = "Europe/London"
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing listings to be processed and stored into
@@ -287,7 +296,7 @@ COMPILERS = {
 
 # Create by default posts in one file format?
 # Set to False for two-file posts, with separate metadata.
-ONE_FILE_POSTS = False
+ONE_FILE_POSTS = True
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
@@ -311,7 +320,7 @@ WRITE_TAG_CLOUD = True
 
 # Generate pages for each section. The site must have at least two sections
 # for this option to take effect. It wouldn't build for just one section.
-POSTS_SECTIONS = True
+#POSTS_SECTIONS = True
 
 # Setting this to False generates a list page instead of an index. Indexes
 # are the default and will apply GENERATE_ATOM if set.
@@ -367,7 +376,7 @@ POSTS_SECTIONS = True
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
- # (translatable)
+# (translatable)
 # TAG_PATH = "categories"
 
 # See TAG_PATH's "list of tags" for the default setting value. Can be overwritten
@@ -485,7 +494,7 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "notebook"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -766,7 +775,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -800,11 +809,11 @@ FEED_LINKS_APPEND_QUERY = False
 LICENSE = ""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
+LICENSE = """
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
@@ -961,23 +970,23 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # long time). Insert anything you want here, or even make it empty (which is
 # the default right now)
 # (translatable)
-# SOCIAL_BUTTONS_CODE = """
-# <!-- Social buttons -->
-# <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
-# <a class="addthis_button_more">Share</a>
-# <ul><li><a class="addthis_button_facebook"></a>
-# <li><a class="addthis_button_google_plusone_share"></a>
-# <li><a class="addthis_button_linkedin"></a>
-# <li><a class="addthis_button_twitter"></a>
-# </ul>
-# </div>
-# <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
-# <!-- End of social buttons -->
-# """
+#SOCIAL_BUTTONS_CODE = """
+#<!-- Social buttons -->
+#<div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
+#<a class="addthis_button_more">Share</a>
+#<ul><li><a class="addthis_button_facebook"></a>
+#<li><a class="addthis_button_google_plusone_share"></a>
+#<li><a class="addthis_button_linkedin"></a>
+#<li><a class="addthis_button_twitter"></a>
+#</ul>
+#</div>
+#<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
+#<!-- End of social buttons -->
+#"""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
@@ -1077,11 +1086,39 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+#EXTRA_HEAD_DATE = """
+#<!-- Latest compiled and minified CSS -->
+#<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\" crossorigin=\"anonymous\">
+#
+#<!-- Optional theme -->
+#<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css\" integrity=\"sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r\" crossorigin=\"anonymous\">
+#
+#<!-- Latest compiled and minified JavaScript -->
+#<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\" integrity=\"sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS\" crossorigin=\"anonymous\"></script>
+#
+#<!-- Jumbotron Narrow -->
+#<link href=\"jumbotron-narrow.css\" rel=\"stylesheet\">
+#"""
+
+EXTRA_HEAD_DATA = """
+<link href=\"http://eroesch.github.io/etienneroes.ch-build/bootstrap.min.css\" rel=\"stylesheet\">
+<link href=\"http://eroesch.github.io/etienneroes.ch-build/jumbotron-narrow.css\" rel=\"stylesheet\">
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """
+<script>
+var _gaq = _gaq || [['_trackPageview']];
+_gaq.unshift(['_setAccount', 'UA-4147363-5']);
+(function(d, t) {
+	var g = d.createElement(t),
+		 s = d.getElementsByTagName(t)[0];
+	g.async = true;
+	g.src = '//www.google-analytics.com/ga.js';
+	s.parentNode.insertBefore(g, s);
+})(document, 'script');
+</script>"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
