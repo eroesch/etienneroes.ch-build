@@ -20,7 +20,7 @@ The question that motivates my work is: How do we experience the world?
 
 My interests are generally centrered around the study of the mechanisms that support meaningful interaction with the environment through sensorimotor coordination, in vision and touch. To describe these mechamisms, I employ methods from psychophysics, electrophysiology and neuroimaging, as well as mathematical modelling.
 
-.. image:: /images/cogsci-etienneroesch-small.jpg
+.. image:: images/cogsci-etienneroesch-small.jpg
 	:height: 290px
 	:width: 300px
 	:align: right
