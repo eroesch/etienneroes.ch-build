@@ -21,28 +21,4 @@ I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Cognitive
 
 I conduct and supervise research that focuses on the mechanisms that support meaningful interaction with the environment through sensorimotor coordination, in vision and touch. We use psychophysics, electrophysiology and neuroimaging methods, as well as mathematical modelling.
 
-.. class:: col-lg-6
-
-Sub
----
-blah
-
-.. class:: col-lg-6
-
-Sub
----
-blah
-
-.. class:: col-lg-6
-
-Sub
----
-blah
-
-.. class:: col-lg-6
-
-Sub
----
-blah
-
 |br|

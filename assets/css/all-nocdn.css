@@ -3268,6 +3268,7 @@ div.text_cell_render {
 
 .page-content > .content p {
   margin: 0 0 12px;
+  font-size: 17px;
 }
 
 .highlight .hll { background-color: #ffffcc }
