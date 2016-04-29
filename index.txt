@@ -16,7 +16,7 @@
 
 |br|
 
-I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Health Neuroscience, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, at the School of Psychology and Clinical Language Sciences. I am a computational neuroscientist, but really, I am a cognitive scientist in disguise.
+I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Health Neuroscience, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, in the School of Psychology and Clinical Language Sciences. I am a computational neuroscientist, but really, I am a cognitive scientist in disguise.
 
 I conduct and supervise research combining empirical work and mathematical modelling, at both cellular and systemic levels, to understand how interaction with the environment supports function, in vision and touch. We use psychophysics, electrophysiology and neuroimaging methods, as well as mathematical modelling.
 
