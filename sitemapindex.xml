@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://etienneroes.ch/galleries/demo/rss.xml</loc>
-  <lastmod>2016-04-28T20:11:00Z</lastmod>
+  <lastmod>2016-04-29T19:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/galleries/rss.xml</loc>
-  <lastmod>2016-04-28T20:11:00Z</lastmod>
+  <lastmod>2016-04-29T19:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/rss.xml</loc>
@@ -19,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/sitemap.xml</loc>
-  <lastmod>2016-04-28T21:55:00Z</lastmod>
+  <lastmod>2016-04-29T19:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>
