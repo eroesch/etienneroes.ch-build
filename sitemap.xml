@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://etienneroes.ch/</loc>
-  <lastmod>2016-04-28T20:39:00Z</lastmod>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://etienneroes.ch/2016/</loc>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://etienneroes.ch/archive.html</loc>
-  <lastmod>2016-04-29T19:39:00Z</lastmod>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://etienneroes.ch/bio/</loc>
@@ -19,7 +23,15 @@
  </url>
  <url>
   <loc>https://etienneroes.ch/categories/</loc>
-  <lastmod>2016-04-28T20:11:00Z</lastmod>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://etienneroes.ch/categories/ipython/</loc>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://etienneroes.ch/categories/setup/</loc>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://etienneroes.ch/contact/</loc>
@@ -47,7 +59,11 @@
  </url>
  <url>
   <loc>https://etienneroes.ch/notebook/</loc>
-  <lastmod>2016-04-28T20:11:00Z</lastmod>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://etienneroes.ch/notebook/testing-ipython-setup/</loc>
+  <lastmod>2016-05-01T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://etienneroes.ch/publications/</loc>
