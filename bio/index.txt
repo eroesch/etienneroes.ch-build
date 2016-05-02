@@ -14,7 +14,7 @@
 
 |br|
 
-I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Cognitive Science, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, at the School of Psychology and Clinical Language Sciences.
+I am a tenured `Lecturer <https://en.wikipedia.org/wiki/Lecturer>`_ in Health Neuroscience, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, at the School of Psychology and Clinical Language Sciences.
 
 Before starting in Reading as a Lecturer, I was a postdoctoral Research Assistant at Goldsmiths Univ. London, where I developed a theoretical framework for information processing based on interaction, as an alternative to computationalism. Before that, I was the recipient of a Fellowship for Prospective Researchers, awarded by Swiss National Science Foundation, which I used to join Prof. Murray Shanahan's Cognitive Robotics group at Imperial College London. During this time, I contributed to the development of NeMo, a modelling platform for spiking neurons using GPUs.
 
