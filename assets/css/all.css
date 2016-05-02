@@ -3194,6 +3194,7 @@ pre {
 }
 
 div.prompt {
+	min-width: 71px;
   padding: 0.6em;
   font-size: 13px;
   background: url('../images/blue-mocha-grunge-reversed.jpg');
