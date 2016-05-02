@@ -17,7 +17,7 @@
 |br|
 
 .. image:: /images/cogsci-etienneroesch-small.png
-	:height: 270px
+	:height: 290px
 	:align: right
 
 The question that motivates my work is: How do we experience the world?
