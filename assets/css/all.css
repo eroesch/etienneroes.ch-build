@@ -3194,10 +3194,10 @@ pre {
 }
 
 div.prompt {
-	min-width: 71px;
+  min-width: 71px;
   padding: 0.6em;
   font-size: 13px;
-  background: url('../images/blue-mocha-grunge-reversed.jpg');
+  /* background: url('../images/blue-mocha-grunge-reversed.jpg'); */
   margin-right: 1em;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
