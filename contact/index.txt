@@ -22,6 +22,7 @@ United-Kingdom |br|
 http `etienneroes.ch <http://etienneroes.ch>`_
 
 .. @ contact(AT)etienneroes(DOT)ch
+
 @ e.b.roesch(at)reading(dot)ac(dot)uk
 
 irc `##neuroscience <http://fr.irc2go.com/webchat/?net=freenode&room=%23neuroscience>`_, on irc.freenode.net (http://neurosci.wikidot.com)
