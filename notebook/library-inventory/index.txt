@@ -7,11 +7,17 @@
 .. description: 
 .. type: text
 
+.. |br| raw:: html
+
+	<br />
+
+
 
 List of books I have lent to people.
 
 .. TEASER_END
 
+|br|
 =========================================  ========  ==========
 **Book title**                             **Who?**  **When?**
 =========================================  ========  ==========
