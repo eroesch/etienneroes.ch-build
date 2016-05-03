@@ -7,7 +7,9 @@
 .. description: 
 .. type: text
 
-Write your post here.
+
+List of books I have lent to people.
+
 
 =========================================  ========  ==========
 **Book title**                             **Who?**  **When?**
