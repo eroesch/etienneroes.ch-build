@@ -1,0 +1,18 @@
+.. title: Library inventory
+.. slug: library-inventory
+.. date: 2016-05-03 21:28:22 UTC+01:00
+.. tags: Maintenance,draft
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Write your post here.
+
+| Book title    | Who?          | When?  |
+| ------------- |:-------------:| :-----:|
+| Entrepreneurship for dummies | Timothee | 2015/03 |
+| Gazzaniga et al. (2008). Cognitive Neuroscience: The Biology of the Mind | Inge | 2016/04/26 |
+| Hess (1931). The glass bead game | Timothee | 2014 |
+| Stroud (2005). Engineering mathematics | Catriona | 2016/03 |
+| Varela et al. (1997). The embodied mind | Catriona | 2015/03 |
