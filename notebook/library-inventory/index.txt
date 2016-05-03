@@ -1,7 +1,7 @@
 .. title: Library inventory
 .. slug: library-inventory
 .. date: 2016-05-03 21:28:22 UTC+01:00
-.. tags: Maintenance,draft
+.. tags: Maintenance
 .. category: 
 .. link: 
 .. description: 
