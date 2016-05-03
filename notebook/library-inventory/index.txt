@@ -10,6 +10,7 @@
 
 List of books I have lent to people.
 
+.. TEASER_END
 
 =========================================  ========  ==========
 **Book title**                             **Who?**  **When?**
