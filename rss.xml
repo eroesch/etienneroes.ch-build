@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Etienne B. Roesch | Lecturer in Cognitive Science</title><link>https://etienneroes.ch/</link><description></description><atom:link rel="self" href="https://etienneroes.ch/rss.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Tue, 03 May 2016 20:43:11 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Library inventory</title><link>https://etienneroes.ch/notebook/library-inventory/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div&gt;&lt;p&gt;Write your post here.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 9)&lt;/p&gt;
-&lt;p&gt;Malformed table.
-Text in column margin in table line 7.&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-========================================= ======== ==========
-Book title                                                                                      Who?            When?
-========================================= ======== ==========
-Entrepreneurship for dummies                                    Timothee        2015/03
-Gazzaniga et al. (2008). Cog Nsci                       Inge            2016/04/26
-Hess (1931). The glass bead game                                Timothee 2014
-Stroud (2005). Engineering mathematics          Catriona 2016/03
-Varela et al. (1997). The embodied mind Catriona 2015/03
-========================================= ======== ==========
-&lt;/pre&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Maintenance</category><guid>https://etienneroes.ch/notebook/library-inventory/</guid><pubDate>Tue, 03 May 2016 20:28:22 GMT</pubDate></item><item><title>Test</title><link>https://etienneroes.ch/notebook/test/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>https://etienneroes.ch/notebook/test/</guid><pubDate>Mon, 02 May 2016 08:49:12 GMT</pubDate></item><item><title>Testing iPython setup</title><link>https://etienneroes.ch/notebook/testing-ipython-setup/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Etienne B. Roesch | Lecturer in Cognitive Science</title><link>https://etienneroes.ch/</link><description></description><atom:link rel="self" href="https://etienneroes.ch/rss.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Tue, 03 May 2016 20:44:59 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Library inventory</title><link>https://etienneroes.ch/notebook/library-inventory/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div&gt;&lt;p&gt;Write your post here.&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="69%"&gt;
+&lt;col width="14%"&gt;
+&lt;col width="17%"&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Book title&lt;/th&gt;
+&lt;th class="head"&gt;Who?&lt;/th&gt;
+&lt;th class="head"&gt;When?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Entrepreneurship for dummies&lt;/td&gt;
+&lt;td&gt;Timothee&lt;/td&gt;
+&lt;td&gt;2015/03&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Gazzaniga et al. (2008). Cog Nsci&lt;/td&gt;
+&lt;td&gt;Inge&lt;/td&gt;
+&lt;td&gt;2016/04/26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Hess (1931). The glass bead game&lt;/td&gt;
+&lt;td&gt;Timothee&lt;/td&gt;
+&lt;td&gt;2014&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Stroud (2005). Engineering mathematics&lt;/td&gt;
+&lt;td&gt;Catriona&lt;/td&gt;
+&lt;td&gt;2016/03&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Varela et al. (1997). The embodied mind&lt;/td&gt;
+&lt;td&gt;Catriona&lt;/td&gt;
+&lt;td&gt;2015/03&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><category>Maintenance</category><guid>https://etienneroes.ch/notebook/library-inventory/</guid><pubDate>Tue, 03 May 2016 20:28:22 GMT</pubDate></item><item><title>Test</title><link>https://etienneroes.ch/notebook/test/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>https://etienneroes.ch/notebook/test/</guid><pubDate>Mon, 02 May 2016 08:49:12 GMT</pubDate></item><item><title>Testing iPython setup</title><link>https://etienneroes.ch/notebook/testing-ipython-setup/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
     &lt;div class="container" id="notebook-container"&gt;
 
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
