@@ -10,7 +10,7 @@
 Write your post here.
 
 =========================================  ========  ==========
-**Book title                                 Who?      When?**
+**Book title**                             **Who?**  **When?**
 =========================================  ========  ==========
 Entrepreneurship for dummies               Timothee  2015/03
 Gazzaniga et al. (2008). Cog Nsci          Inge      2016/04/26
