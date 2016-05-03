@@ -6,27 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://etienneroes.ch/categories/books.xml</loc>
+  <lastmod>2016-05-03T20:13:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://etienneroes.ch/categories/ipython.xml</loc>
-  <lastmod>2016-05-02T21:28:00Z</lastmod>
+  <lastmod>2016-05-03T20:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://etienneroes.ch/categories/maintenance.xml</loc>
+  <lastmod>2016-05-03T20:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/categories/setup.xml</loc>
-  <lastmod>2016-05-02T21:28:00Z</lastmod>
+  <lastmod>2016-05-03T20:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/galleries/demo/rss.xml</loc>
-  <lastmod>2016-05-02T21:28:00Z</lastmod>
+  <lastmod>2016-05-03T20:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/galleries/rss.xml</loc>
-  <lastmod>2016-05-02T21:28:00Z</lastmod>
+  <lastmod>2016-05-03T20:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/rss.xml</loc>
-  <lastmod>2016-05-02T21:28:00Z</lastmod>
+  <lastmod>2016-05-03T20:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://etienneroes.ch/sitemap.xml</loc>
-  <lastmod>2016-05-02T21:28:00Z</lastmod>
+  <lastmod>2016-05-03T20:14:00Z</lastmod>
  </sitemap>
 </sitemapindex>
