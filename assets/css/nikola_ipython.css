@@ -41,11 +41,11 @@ div.text_cell_render {
 .rendered_html p {
   text-align: left;
   margin: 0 0 12px;
+  font-size: 17px;
 }
 
 .rendered_html ul {
   margin: 0 0 12px 25px;
-  font-size: 17px;
 }
 
 .rendered_html :visited {
