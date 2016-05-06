@@ -133,8 +133,9 @@ Right. Disclaimer: This setup is not for everyone. If you found these lines, you
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>You will find below a step-by-step guide of how I have it setup. It is of course for your enjoyment as much as it is to appease my memory. I assume that you know why you are engaging on this path, that you know a little bit of python and jupyter-notebook, and that you are not afraid of command lines.</p>
-<p>I have tested this setup on a macbook pro and an iMac. I have made the decision to use Python3.5, which is a risk and an opportunity to future-proof a little. Some packages have been compiled by others, and made available on public repositories (Thanks all for that!). I may try to do the same, to offer a degree of redundancy, but that's for later.</p>
-<p>I assume you have installed a flavour of <a href="https://www.continuum.io/downloads">Anaconda</a>--where I think <a href="http://www.damian.oquanta.info/">Damian Avila</a> is now working! I also assume that you know how to use <a href="http://conda.pydata.org/docs/using/envs.html">conda, which is Python environment manager</a>.</p>
+<p>I have tested this setup on a macbook pro and an iMac, running El Capitan. I have made the decision to use Python3.5, which is a risk and an opportunity to future-proof a little. That said, it works very well with older versions of Python, and also nothing stops you from mix'm matching versions/conda environments for your blog posts--I checked.
+Some packages have been compiled by others, and made available on public repositories (Thanks all for that!). I may try to do the same, to offer a degree of redundancy, but that's for later.</p>
+<p>I also assume you have installed a flavour of <a href="https://www.continuum.io/downloads">Anaconda</a>--where I think <a href="http://www.damian.oquanta.info/">Damian Avila</a> is now working! And I assume that you know how to use <a href="http://conda.pydata.org/docs/using/envs.html">conda, which is Python environment manager</a>.</p>
 <p>The code below is obviously to be run on the Terminal, although could be run from a jupyter-notebook with some minor adjustments.</p>
 
 </div>
@@ -222,8 +223,8 @@ Right. Disclaimer: This setup is not for everyone. If you found these lines, you
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create demo site</span>
 <span class="n">nikola</span> <span class="n">init</span> <span class="o">--</span><span class="n">demo</span> <span class="n">mysite</span>
 <span class="n">cd</span> <span class="n">mysite</span>
-<span class="n">nikola</span> <span class="n">install_theme</span> <span class="n">zen</span><span class="o">-</span><span class="n">ipython</span>
 <span class="n">nikola</span> <span class="n">install_theme</span> <span class="n">zen</span><span class="o">-</span><span class="n">jinja</span>
+<span class="n">nikola</span> <span class="n">install_theme</span> <span class="n">zen</span><span class="o">-</span><span class="n">ipython</span>
 </pre></div>
 
 </div>
@@ -249,7 +250,7 @@ Right. Disclaimer: This setup is not for everyone. If you found these lines, you
 <div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Install some libs</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Install some libs to play with</span>
 <span class="n">conda</span> <span class="n">install</span> <span class="n">numpy</span>
 <span class="n">conda</span> <span class="n">install</span> <span class="n">matplotlib</span>
 </pre></div>
@@ -265,6 +266,10 @@ Right. Disclaimer: This setup is not for everyone. If you found these lines, you
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Optional: export EDITOR=/Users/etienneroesch/anaconda/envs/python3-nikola/bin/jupyter-notebook</span>
+<span class="c1"># As I understand, Nikola will not recompile your notebooks each time,</span>
+<span class="c1"># and will use the version that you have already saved. That means</span>
+<span class="c1"># you can use a difference conda environment, or a different Python install.</span>
+<span class="c1"># Nikola will display what is contained in the .ipynb file.</span>
 <span class="n">nikola</span> <span class="n">new_post</span> <span class="o">-</span><span class="n">e</span> <span class="o">-</span><span class="n">f</span> <span class="n">ipynb</span> <span class="o">--</span><span class="n">tags</span><span class="o">=</span><span class="n">Setup</span><span class="p">,</span><span class="n">iPython</span>
 </pre></div>
 
