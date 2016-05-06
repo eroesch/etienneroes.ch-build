@@ -133,8 +133,8 @@ Right. Disclaimer: This setup is not for everyone. If you found these lines, you
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>You will find below a step-by-step guide of how I have it setup. It is of course for your enjoyment as much as it is to appease my memory. I assume that you know why you are engaging on this path, that you know a little bit of python and jupyter-notebook, and that you are not afraid of command lines.</p>
-<p>I have tested this setup on a macbook pro and an iMac, running El Capitan. I have made the decision to use Python3.5, which is a risk and an opportunity to future-proof a little. That said, it works very well with older versions of Python, and also nothing stops you from mix'm matching versions/conda environments for your blog posts--I checked.
-Some packages have been compiled by others, and made available on public repositories (Thanks all for that!). I may try to do the same, to offer a degree of redundancy, but that's for later.</p>
+<p>I have tested this setup on a macbook pro and an iMac, running El Capitan. I have made the decision to use Python3.5, which is a risk and an opportunity to future-proof a little. That said, it works very well with older versions of Python, and also nothing stops you from mix'n matching versions/conda environments for your blog posts--I checked.</p>
+<p>Some packages have been compiled by others, and made available on public repositories (Thanks all for that!). I may try to do the same, to offer a degree of redundancy, but that's for later.</p>
 <p>I also assume you have installed a flavour of <a href="https://www.continuum.io/downloads">Anaconda</a>--where I think <a href="http://www.damian.oquanta.info/">Damian Avila</a> is now working! And I assume that you know how to use <a href="http://conda.pydata.org/docs/using/envs.html">conda, which is Python environment manager</a>.</p>
 <p>The code below is obviously to be run on the Terminal, although could be run from a jupyter-notebook with some minor adjustments.</p>
 
@@ -204,7 +204,7 @@ Some packages have been compiled by others, and made available on public reposit
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># At this point, you have a plain install, which I recommend you backup</span>
-<span class="c1"># As you will want to play incorporate jupyter-notebooks, it is</span>
+<span class="c1"># As you will want to incorporate jupyter-notebooks, it is</span>
 <span class="c1"># likely you will want to install more packages, and you certainly</span>
 <span class="c1"># do not want to spoil your original install</span>
 <span class="n">conda</span> <span class="n">create</span> <span class="o">--</span><span class="n">name</span> <span class="n">python3</span><span class="o">-</span><span class="n">nikola</span><span class="o">-</span><span class="n">backup</span> <span class="o">--</span><span class="n">clone</span> <span class="n">python3</span><span class="o">-</span><span class="n">nikola</span>
@@ -238,6 +238,9 @@ Some packages have been compiled by others, and made available on public reposit
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">conf</span><span class="o">.</span><span class="n">py</span> <span class="n">here</span>
+
+<span class="c1"># At this point, you can look at what you have achieved</span>
+<span class="n">nikola</span> <span class="n">serve</span> <span class="o">-</span><span class="n">b</span>
 </pre></div>
 
 </div>
