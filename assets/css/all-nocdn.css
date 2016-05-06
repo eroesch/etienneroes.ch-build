@@ -3250,6 +3250,10 @@ div.text_cell_render {
   margin: 0 0 12px 25px;
 }
 
+.rendered_html ol {
+	font-size: 17px;
+}
+
 .rendered_html :visited {
   text-decoration: none;
 }
