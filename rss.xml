@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Etienne B. Roesch | Lecturer in Cognitive Science</title><link>https://etienneroes.ch/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://etienneroes.ch/rss.xml"></atom:link><language>en</language><lastBuildDate>Fri, 06 May 2016 21:57:09 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Library inventory</title><link>https://etienneroes.ch/notebook/library-inventory/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div&gt;&lt;p&gt;List of books I have lent to people.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Etienne B. Roesch | Lecturer in Cognitive Science</title><link>https://etienneroes.ch/</link><description></description><atom:link href="https://etienneroes.ch/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 06 May 2016 22:02:06 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Library inventory</title><link>https://etienneroes.ch/notebook/library-inventory/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div&gt;&lt;p&gt;List of books I have lent to people.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://etienneroes.ch/notebook/library-inventory/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>Maintenance</category><guid>https://etienneroes.ch/notebook/library-inventory/</guid><pubDate>Tue, 03 May 2016 20:28:22 GMT</pubDate></item><item><title>Testing iPython setup</title><link>https://etienneroes.ch/notebook/testing-ipython-setup/</link><dc:creator>Etienne B. Roesch</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
     &lt;div class="container" id="notebook-container"&gt;
 
@@ -8,7 +8,7 @@
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;&lt;em&gt;tl;dr &lt;a href="https://getnikola.com/"&gt;Nikola&lt;/a&gt; does iPython notebooks almost out of the box! See it in action, and download the .ipynb source of that very blog post.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;tl;dr &lt;a href="https://getnikola.com/"&gt;Nikola&lt;/a&gt; does iPython notebooks almost out of the box! See it in action, and download the .ipynb source of that very blog post.&lt;/p&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
