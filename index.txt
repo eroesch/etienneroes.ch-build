@@ -20,7 +20,7 @@ I am a tenured `Associate Professor <https://en.wikipedia.org/wiki/Associate_Pro
 
 .. I am a computational neuroscientist, a data scientist in neuroscience, but really, I am a `cognitive scientist <https://en.wikipedia.org/wiki/Cognitive_science>`_ in disguise.
 
-I conduct and supervise research combining empirical work and mathematical modelling, at both cellular and systemic levels, to understand how interaction with the environment supports function, in vision and touch. We use psychophysics, electrophysiology and neuroimaging methods, as well as mathematical modelling.
+I conduct and supervise research combining empirical work and mathematical modelling, at both cellular and systemic levels, to understand how interaction with the environment supports experience, in vision and touch. We use psychophysics, electrophysiology and neuroimaging methods, as well as mathematical modelling.
 
 .. I conduct and supervise research that focuses on the mechanisms that support meaningful interaction with the environment through sensorimotor coordination, in vision and touch. We use psychophysics, electrophysiology and neuroimaging methods, as well as mathematical modelling.
 
