@@ -8,21 +8,27 @@
 .. type: text
 
 
-.. Job in CINN
+.. |--| unicode:: U+2013
+.. |br| raw:: html
+
+	<br />
+
+
+
+|br|
 
 Industrial avenues
-==================
+------------------
 
-KTP
----
+Knowledge Transfer Partnership
+``````````````````````````````
 
-Info: https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply
+* Info: https://www.gov.uk/guidance/knowledge-transfer-partnerships-what-they-are-and-how-to-apply
+* Deadlines 2016:
 
-Deadlines 2016:
-
-* 11 May 2016
-* 6 July 2016
-* 7 September 2016
-* 2 November 2016
+ - 11 May 2016
+ - 6 July 2016
+ - 7 September 2016
+ - 2 November 2016
 
 
