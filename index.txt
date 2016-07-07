@@ -16,7 +16,7 @@
 
 |br|
 
-I am a tenured `Associate Professor <https://en.wikipedia.org/wiki/Associate_Professor>`_ of `Cognitive Science <https://en.wikipedia.org/wiki/Cognitive_science>`_, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, and the `School of Psychology and Clinical Language Sciences <https://reading.ac.uk/pcls`>_.
+I am a tenured `Associate Professor <https://en.wikipedia.org/wiki/Associate_Professor>`_ of `Cognitive Science <https://en.wikipedia.org/wiki/Cognitive_science>`_, at the `University of Reading <http://reading.ac.uk>`_, UK, affiliated to the `Centre for Integrative Neuroscience and Neurodynamics <http://reading.ac.uk/cinn>`_, and the `School of Psychology and Clinical Language Sciences <https://reading.ac.uk/pcls>`_.
 
 .. I am a computational neuroscientist, a data scientist in neuroscience, but really, I am a `cognitive scientist <https://en.wikipedia.org/wiki/Cognitive_science>`_ in disguise.
 
